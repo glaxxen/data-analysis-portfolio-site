@@ -4,7 +4,7 @@ A clean and responsive portfolio website showcasing data analysis projects, tech
 
 ## Live Demo
 
-https://glaxxen.github.io/project-data-analysis-portfolio-site/
+https://glaxxen.github.io/data-analysis-portfolio-site/
 
 ## Overview
 
